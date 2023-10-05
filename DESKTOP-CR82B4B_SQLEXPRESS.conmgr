@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-CR82B4B_SQLEXPRESS"
+  DTS:DTSID="{D99095C9-A923-4A4F-8653-B97D6FDB67BA}"
+  DTS:CreationName="SMOServer">
+  <DTS:ObjectData>
+    <SMOServerConnectionManager
+      ConnectionString="SqlServerName=DESKTOP-CR82B4B\SQLEXPRESS;UseWindowsAuthentication=True;UserName=;"
+      ConnectByProxy="False" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
